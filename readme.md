@@ -1,46 +1,56 @@
-# KLVR Control - Official Releases
+# Klvr Control
 
-This repository contains the official releases of KLVR Control, the desktop application for managing KLVR Pro chargers.
+**Version 1.0.0** | Desktop app for managing your KLVR devices
 
-## Downloads
+[Download Latest Release](https://github.com/KLVR-no/klvr-control-releases/releases/latest)
 
-### Latest Release
-Visit https://klvr.no/downloads to download the latest version.
+## What is Klvr Control?
 
-Choose the appropriate version for your operating system:
-- **Windows**: Download `Klvr_Control_Windows_[version].exe`
-- **macOS**: Download `Klvr_Control_MacOS_[version].zip`
+Klvr Control is a desktop app that lets you manage your KLVR devices from your computer. Once your devices have DHCP or static addresses configured, the app automatically finds them on your network.
 
-## Installation Instructions
+**What you can do:**
+- Monitor battery levels and temperature in real-time
+- See remaining time in target mode
+- Update device firmware when available
+- Rename and identify your devices
+- Configure network settings
+
+## Download & Install
 
 ### Windows
-1. Download `Klvr_Control_Windows_[version].exe`
-2. Double-click the downloaded file
-3. Follow the installation wizard
-4. KLVR Control will start automatically after installation
+1. Download `KlvrControl-Windows-[version].exe` from the [releases page](https://github.com/KLVR-no/klvr-control-releases/releases)
+2. Run the installer
+3. Follow the setup wizard
 
 ### macOS
-1. Download `Klvr_Control_MacOS_[version].zip`
-2. Double-click the downloaded file to extract it
-3. Drag KLVR Control to your Applications folder
-4. Right-click KLVR Control in Applications and select "Open"
-5. Click "Open" in the security dialog that appears
+1. Download `KlvrControl-MacOS-[version].zip` from the [releases page](https://github.com/KLVR-no/klvr-control-releases/releases)
+2. Unzip the file
+3. Drag Klvr Control to your Applications folder
+4. First time: Right-click and select "Open" to bypass security warning
 
-## Auto-Updates
+## System Requirements
 
-KLVR Control includes automatic update functionality. When a new version is available:
-1. You'll see a notification in the app
-2. Click to download and install the update
-3. Restart the app when prompted
+- **Windows**: Windows 10 or later (64-bit)
+- **macOS**: macOS 10.15 (Catalina) or later
+- **Network**: WiFi or Ethernet connection to reach your devices
 
-## Support
+## Getting Started
 
-For support, please visit:
-- [KLVR Website](https://klvr.no)
+1. **Set up your devices**: Make sure your KLVR devices have DHCP or static IP addresses configured
+2. **Open the app**: Launch Klvr Control from your desktop or Applications folder
+3. **Allow network access**: Grant network permissions when prompted (needed to find devices)
+4. **Start managing**: Your devices should appear automatically
 
-## Release Notes
+## Need Help?
 
-See the [Releases page](https://github.com/KLVR-no/klvr-control-releases/releases) for detailed release notes and changelog for each version.
+- **Website**: [klvr.no](https://klvr.no)
+- **Support**: [klvr.no/contact](https://klvr.no/contact)
+- **Latest Version**: Check this page for updates
+
+## About KLVR
+
+KLVR AS develops innovative charging solutions. Learn more at [klvr.no](https://klvr.no).
 
 ---
-KLVR Control is developed and maintained by [Klvr AS](https://klvr.no)
+
+*Copyright (c) 2025 KLVR AS. All rights reserved.* 
