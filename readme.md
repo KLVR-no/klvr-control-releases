@@ -2,7 +2,7 @@
 
 **Version 1.0.0** | Desktop app for managing your KLVR devices
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Latest%20Release-brightgreen?style=for-the-badge)](https://github.com/KLVR-no/klvr-control-releases/releases/latest)
+[![Download Latest Release](https://img.shields.io/badge/Download-Latest%20Release-brightgreen?style=for-the-badge)](https://klvr.no/downloads)
 
 ## 🚀 What is Klvr Control?
 
@@ -18,12 +18,12 @@ Klvr Control is a desktop app that lets you manage your KLVR devices from your c
 ## 📦 Download & Install
 
 ### 🪟 Windows
-1. Download `KlvrControl-Windows-[version].exe` from the [releases page](https://github.com/KLVR-no/klvr-control-releases/releases)
+1. Download `KlvrControl-Windows-[version].exe` from [klvr.no/downloads](https://klvr.no/downloads)
 2. Run the installer
 3. Follow the setup wizard
 
 ### 🍎 macOS
-1. Download `KlvrControl-MacOS-[version].zip` from the [releases page](https://github.com/KLVR-no/klvr-control-releases/releases)
+1. Download `KlvrControl-MacOS-[version].zip` from [klvr.no/downloads](https://klvr.no/downloads)
 2. Unzip the file
 3. Drag Klvr Control to your Applications folder
 4. First time: Right-click and select "Open" to bypass security warning
